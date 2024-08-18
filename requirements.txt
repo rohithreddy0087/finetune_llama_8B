@@ -1,0 +1,10 @@
+torch==2.4.0
+# flash-attn
+accelerate
+tiktoken
+datasets
+transformers
+wandb
+trl
+peft
+bitsandbytes
